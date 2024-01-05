@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Aynal Haque 👋
 
 ## About Me
 I'm a passionate front-end developer with a strong foundation in HTML, CSS, and JavaScript. My goal is to create clean, user-friendly, and visually appealing web applications.
